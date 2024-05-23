@@ -9,13 +9,10 @@ WashUp isn't just a laundry app, it's your on-demand laundry concierge service t
 
 # Preview 🖌
 
-| ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%201.jpeg) 
-| ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%202.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%203.jpeg) |
+| ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%201.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%202.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%203.jpeg) |
 | ----------- | ----------- | ----------- | ----------- |
-| ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%204.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%205.jpeg) 
-| ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%206.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%207.jpeg) |
-| ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%208.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%209.jpeg) 
-| ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%2010.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%2011.jpeg) |
+| ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%204.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%205.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%206.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%207.jpeg) |
+| ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%208.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%209.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%2010.jpeg) | ![Untitled](WashUp%20-%20Laundry%20App%2063d34eb9c8554d358d658ee4ff8c1b2a/Untitled%2011.jpeg) |
 
 # Package 📦
 
